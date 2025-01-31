@@ -1,5 +1,5 @@
 // 在手机端显示的背景图片链接
-const mobileBgImageUrl = "url('https://ins.file.madlive.cn/free/2025/9/678a661195c24.jpg')";
+const mobileBgImageUrl = "url('https://moshangjunmowen.oss-cn-shenzhen.aliyuncs.com/bg2.jpg')";
 
 // 在电脑端显示的背景图片链接
 const desktopBgImageUrl = "url('https://moshangjunmowen.oss-cn-shenzhen.aliyuncs.com/bg2.jpg')";
